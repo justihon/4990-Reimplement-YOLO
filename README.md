@@ -3,5 +3,4 @@
 # Group A-eye: Tuan Le, Justin Hong, Niccijush Rodriguez
 # Dec 14, 2025
 
-# Dataset used
-https://limewire.com/d/viDS7#EwlgCcLskC 
+# Dataset used: https://limewire.com/d/viDS7#EwlgCcLskC 
